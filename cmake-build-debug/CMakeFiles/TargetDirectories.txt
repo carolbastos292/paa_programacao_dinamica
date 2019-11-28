@@ -1,0 +1,3 @@
+C:/Users/basto/CLionProjects/mochila/cmake-build-debug/CMakeFiles/mochila.dir
+C:/Users/basto/CLionProjects/mochila/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/basto/CLionProjects/mochila/cmake-build-debug/CMakeFiles/rebuild_cache.dir
