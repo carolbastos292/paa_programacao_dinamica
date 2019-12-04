@@ -7,8 +7,6 @@
 #IncludeRegexTransform: 
 
 C:/Users/basto/CLionProjects/mochila/main.cpp
-iostream
--
-vector
+stdio.h
 -
 
